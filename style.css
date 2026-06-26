@@ -1,9 +1,12 @@
-/* h1{
-    background-color: blanchedalmond;
-} */
-
-
-
 h1{
-    background-color: rgb(113, 99, 99);
+    color: aquamarine;
+    background-color: rgb(31, 27, 27);
+    text-align: center;
+}
+p{
+    color: blue;
+    font-size: large;
+}
+h2{
+    color: red;
 }
