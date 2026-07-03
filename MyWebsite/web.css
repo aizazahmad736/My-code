@@ -1,0 +1,119 @@
+body {
+    font-family: 'Segoe UI', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background: linear-gradient(135deg, #6d6d8d, #4a4a68);
+    color: white;
+}
+
+/* Header */
+header {
+    text-align: center;
+    padding: 2rem 0;
+}
+
+header h1 {
+    font-size: 2.8rem;
+    margin-bottom: 10px;
+    color: #00ffd5;
+}
+
+header p {
+    color: #ddd;
+    font-size: 1.1rem;
+}
+
+/* Sections */
+section {
+    background: rgb(92, 77, 77);
+    padding: 20px;
+    margin-bottom: 25px;
+    border-radius: 12px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+/* Hover Effect */
+section:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 10px 25px rgba(0,0,0,0.4);
+}
+
+/* Headings */
+h1,
+h2 {
+    color: #00ffd5;
+}
+
+/* Paragraphs */
+p {
+    color: #f2f2f2;
+}
+
+/* Links */
+a {
+    color: #00ffd5;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ffffff;
+    text-decoration: underline;
+}
+
+/* Images */
+img {
+    width: 100%;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+/* Buttons */
+button {
+    background-color: #6cf0da;
+    color: black;
+    padding: 10px 18px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #00c2a5;
+    transform: scale(1.05);
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    margin-top: 40px;
+    color: #ddd;
+}
+
+/* Smooth scrolling */
+html {
+    scroll-behavior: smooth;
+}
+
+/* Fade-in Animation */
+section {
+    animation: fadeIn 0.8s ease-in;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(20px);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
