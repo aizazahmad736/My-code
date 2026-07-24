@@ -9,6 +9,7 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 ## 📸 Preview
 <img width="950" height="446" alt="111" src="https://github.com/user-attachments/assets/5811c389-1881-4ddd-ae2e-acae39e6b56c" />
 
+<img width="950" height="438" alt="image" src="https://github.com/user-attachments/assets/22c30d5a-16c4-45bc-a196-85fbd452955a" />
 
 ---
 
