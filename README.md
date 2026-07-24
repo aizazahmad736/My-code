@@ -4,11 +4,10 @@ A modern and responsive personal portfolio website built to showcase my skills, 
 
 ## 🚀 Live Demo
 
-🔗 **Portfolio:** *(Add your deployed portfolio link here)*
+🔗 **Portfolio:** *(Add your deployed portfolio link here)
 
 ## 📸 Preview
 
-> *(Add a screenshot or GIF of your portfolio here)*
 
 ---
 
